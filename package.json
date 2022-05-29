@@ -1,0 +1,22 @@
+{
+  "name": "near-marketplace-contract",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AnteaterKit/near-projects.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AnteaterKit/near-projects/issues"
+  },
+  "homepage": "https://github.com/AnteaterKit/near-projects#readme",
+  "dependencies": {
+    "near-sdk-as": "^3.2.3"
+  }
+}
